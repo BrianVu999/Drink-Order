@@ -1,0 +1,53 @@
+body{
+    background-color: bisque;
+    color:rgb(85, 17, 17);
+}
+#headingLogo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+.bigHeading{
+    text-align: center;
+    font-size: 250%;
+}
+.border{
+    border:solid rgb(85, 17, 17) 2px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 35%;
+}
+.scaling1{
+    margin-top: 5%;
+    margin-right:13%;
+    margin-left: 13%;
+    line-height: 40px;
+}
+.scaling2{
+    line-height: 22px;
+}
+
+form > label{
+    display: inline-block;
+    width: 140px;
+}
+input{
+    width: 37px;
+}
+.submitButton{
+    width: auto;
+}
+.imgContainer{
+    border:solid rgb(85, 17, 17) 2px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 50%;
+    background-color: white;
+}
+.distancing{
+    margin-top: 190px;
+}
+
